@@ -1,0 +1,4 @@
+opencv-python==4.13.0.92
+pytesseract==0.3.13
+Pillow==12.2.0
+packaging==25.0
